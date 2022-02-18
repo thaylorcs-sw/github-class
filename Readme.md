@@ -1,3 +1,3 @@
-#Readme V1
+# Readme V1
 
-#Created readme file for the github class
+# Created Readme file for the Github Class
